@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230116739480",
+    "project_id": "senai-ponto",
+    "storage_bucket": "senai-ponto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230116739480:android:fd965dfde85331747cc3ed",
+        "android_client_info": {
+          "package_name": "com.example.senai_ponto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjsTs2FGgB5zHSuCpIH3yWELUcKxKdDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
